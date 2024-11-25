@@ -21,4 +21,25 @@ entries:
     urls:
     - https://github.com/swimablefish/karpenter/releases/download/karpenter-0.35.0/karpenter-0.35.0.tgz
     version: 0.35.0
-generated: "2024-11-25T02:35:56.484679631Z"
+  karpenter-kwok:
+  - apiVersion: v2
+    appVersion: 0.35.0
+    created: "2024-11-25T03:09:39.146699169Z"
+    description: A Helm chart for Karpenter's KwoK Provider, integrated with https://github.com/kubernetes-sigs/kwok.
+    digest: 7d928b2f465d24bf87f8dcbc8923ba235587118dcfcea0716fc912d8f6664fb2
+    home: https://karpenter.sh/
+    icon: https://repository-images.githubusercontent.com/278480393/dab059c8-caa1-4b55-aaa7-3d30e47a5616
+    keywords:
+    - cluster
+    - node
+    - scheduler
+    - autoscaling
+    - lifecycle
+    name: karpenter-kwok
+    sources:
+    - https://github.com/kubernetes-sigs/karpenter/
+    type: application
+    urls:
+    - https://github.com/swimablefish/karpenter/releases/download/karpenter-kwok-0.35.0/karpenter-kwok-0.35.0.tgz
+    version: 0.35.0
+generated: "2024-11-25T03:09:39.146709889Z"
