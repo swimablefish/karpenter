@@ -3,6 +3,8 @@
 approvers:
   - sig-autoscaling-leads
   - karpenter-maintainers
+  - jjyt-16
 
 reviewers:
   - karpenter-reviewers
+  - jjyt-16
